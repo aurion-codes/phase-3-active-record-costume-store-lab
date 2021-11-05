@@ -1,1 +1,2 @@
-# Create your HauntedHouse class here
+class Haunted <ActiveRecord::Migration[6.1]
+end
